@@ -11,11 +11,35 @@
 2. The result will be of form JSON :point_down:
 ```
 {
-  "AAPL": ["APPLE", "SELL"],
-  "AMZN": ["AMAZON", "BUY"],
-  "FB": ["FACEBOOK", "SELL"],
-  "GOOGL": ["GOOGLE", "BUY"],
-  "NFLX": ["NETFLIX", "BUY"],
-  "SBUX": ["STARBUCKS", "BUY"]
+  "AAPL":
+      [
+        "APPLE",
+        "SELL"
+      ],
+  "AMZN":
+      [
+        "AMAZON",
+        "BUY"
+      ],
+  "FB":
+      [
+        "FACEBOOK",
+        "SELL"
+      ],
+  "GOOGL":
+      [
+        "GOOGLE",
+        "BUY"
+      ],
+  "NFLX":
+      [
+        "NETFLIX",
+        "BUY"
+      ],
+  "SBUX":
+      [
+        "STARBUCKS",
+        "BUY"
+      ]
 }
 ```
