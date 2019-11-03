@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+scikit-image
+scikit-learn
+yfinance==0.1.45
+Gunicorn
