@@ -3,7 +3,7 @@
 
 # usage
 * run [post.py](https://github.com/raita0100/prediction_engine/blob/master/post.py) in your local machine to get result.
-* *you can also edit :pencil: the list of stock file according to your use.  *</br>
+* *you can also edit :pencil: the list of stock file according to your use.* </br>
 ```querystring = {"0":"GOOGL","1":"AAPL","2":"AMZN","3":"SBUX","4":"NFLX","5":"FB"}```
 
 # info
