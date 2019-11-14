@@ -13,10 +13,10 @@ _companys = {
     "NFLX": "NETFLIX",
     "GOOGL": "GOOGLE",
     "SBUX": "STARBUCKS",
-    "XOM": "EXXON MOBILE",
-    "JNJ": "JHONSON & JHONSON",
+    "XOM": "EXXON MOBIL",
+    "JNJ": "JOHNSON & JOHNSON",
     "BAC": "BANK OF AMERICA",
-    "GM": "GENARAL MOTORS"
+    "GM": "GENERAL MOTORS"
     }
 #route web page to log in
 @app.route("/", methods = ['GET','POST'])
